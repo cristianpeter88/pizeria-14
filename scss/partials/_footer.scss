@@ -1,0 +1,73 @@
+footer {
+    background-image: url(../img/fondoss.jpg);
+    form {
+        width: 500px;
+        margin: 0 auto;
+        text-align: left;
+        padding: 20px;
+        border: 1px solid #500b0b;
+        border-radius: 5px;
+    }
+    label {
+        color: #45a049;
+        display: block;
+        margin-bottom: 10px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    input,
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #662323;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+input[type="submit"] {
+    background-color: #4caf50;
+    color: rgb(165, 146, 146);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+}
+
+#contactos div {
+    text-align: center;
+    a {
+        text-decoration: none;
+        margin: 0 10px;
+    }
+    img {
+
+        width: 60px;
+    
+        height: 60px;
+    
+        border: none;
+    
+        display: inline-block;
+    
+        vertical-align: middle;
+    
+    }
+    button {
+        color: #ddd;
+    }
+    img {
+        width: 80px;
+        ;
+        height: 80px;
+        ;
+        margin: 10px;
+        ;
+    }
+    
+}

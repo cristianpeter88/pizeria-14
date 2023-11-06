@@ -1,0 +1,14 @@
+
+    @media (max-width: 768px) {
+        .lasmejores {
+            grid-template-columns: 1fr;
+        }
+    }
+    .lasmejores {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 50px 0;
+    }
+    
+    
